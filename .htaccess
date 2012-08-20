@@ -1,0 +1,4 @@
+RewriteEngine on
+RewriteBase /evb/
+RewriteCond $1 !^(index\.php|images|includes|robot\.txt)
+RewriteRule ^(.*)$ index.php/$1 [L,QSA]

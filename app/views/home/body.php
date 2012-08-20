@@ -1,4 +1,4 @@
-
+Front
 <div>
 	<div id="evb-left" class="ui-corner-bl">
 		<ul>
